@@ -1,0 +1,24 @@
+
+{
+    "TestAutomationPractice" : {
+        "Name": "Saturday",
+        "Email": "saturday@gmail.com",
+        "Phone":"8908908900",
+        "Address":"Hyderabad",
+        "Wikipedia":"Playwright"
+    },
+     "TestAutomationPractice1" : {
+        "Name": "Venkat",
+        "Email": "Venkat@gmail.com",
+        "Phone":"7890789090",
+        "Address":"Bangalore",
+        "Wikipedia":"Testing"
+    },
+     "TestAutomationPractice2" : {
+        "Name": "Jinu",
+        "Email": "Jinu@gmail.com",
+        "Phone":"1234567890",
+        "Address":"Chennai",
+        "Wikipedia":"Selenium"
+    }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "playwright_29thaugust2025",
+  "version": "1.0.0",
+  "description": "this is automation project",
+  "keywords": [
+    "pw",
+    "js",
+    "ts"
+  ],
+  "license": "ISC",
+  "author": "QT",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js test"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.2.0",
+    "@playwright/test": "^1.55.1",
+    "@types/node": "^24.5.2",
+    "dotenv": "^17.2.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "@types/xlsx": "^0.0.35",
+    "xlsx": "^0.18.5"
+  }
+}
